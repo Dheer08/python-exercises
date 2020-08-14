@@ -10,3 +10,5 @@ year = 2000
 month = 10
 
 print(calendar.month(year,month))
+
+print("")
