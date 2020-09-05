@@ -1,4 +1,4 @@
-# Write a python program to get the path and name of the file that is currently executing.
+# Write a python program to get the number of cores
 
 import multiprocessing
 print(multiprocessing.cpu_count())
